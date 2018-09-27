@@ -59,7 +59,7 @@ On a Cannon camera, the ISO changes with the same scroll function as the shutter
 
 ## 4. Composition Information
 
-This segment describes some of the main aspects of picture-taking that the yearbook students should bare in mind. 
+This segment describes some of the main aspects of picture-taking that the yearbook students should bare in mind. These aspects include lighting, the rule of thirds, leading lines, and framing.
 
 ### A. Lighting
 
@@ -79,11 +79,19 @@ When the subject is backlit, it makes seeing them almost impossible, but it can 
 
 ### B. Rule of Thirds
 
-When you are attempting to compose a picture, it is helpful to structure the subject of the photo in one of the third portions of the picture. This concept, because it is hard to explain, is better represented by the pictures I included below.
+The Rule of Thirds describes when a photographer subdivides the image they are about to take into nine squares by drawing two vertical lines and two horizontal lines. Image drawing a tic tac toe board When you are attempting to compose a picture, it is helpful to structure the subject of the photo in one of the third portions of the picture. This concept, because it is hard to explain, is better represented by the pictures I included below.
 
 [Insert Photo]
 
 As you can see in these images, the subject is directly represented on one of the lines. This enhances the depth of your photo, allowing the subject to look more three-dimensional than a photo where the subject is in the dead center. 
+
+### C. Leading Lines
+
+A good practice to get into for composition of pictures is using leading lines. Leading Lines simply refer to natural lines inside the image that can be arranged to point towards the subject of the photo. This can be anything from lines on a football field that point towards the quarterback or lines in the tile floor of the hallway that point towards the student of whom you are taking a picture.
+
+[Insert Photo]
+
+### D. Framing
 
 
 
