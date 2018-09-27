@@ -9,7 +9,7 @@
 ### A. Flash
 ### B. Adobe Products
 
-## 1. Technical Information: 
+## 3. Technical Information: 
 
 Three main features influence the quality of the pictures being taken when the camera is in its manual setting, shutter speed, ISO, and aperature. For the sake of simplicity, I am going to explain how to make the technical adjustments on a Cannon camera since they are the type that your yearbook uses. 
 
@@ -44,7 +44,7 @@ On a Cannon camera, the ISO changes with the same scroll function as the shutter
 #### i. Shallow - Good for isolating subjects
 #### ii. Deep – Good for Landscapes
 
-## 2. Composition Information
+## 4. Composition Information
 
 This segment describes some of the main aspects of picture-taking that the yearbook students should bare in mind. 
 
@@ -55,5 +55,7 @@ Slightly cloudy days are optimal for picture-taking because the photographer has
 #### 1. Frontlit Images
   
 Taking pictures with the sun shining from behind you onto the subject is a good way to make sure the photo turns out well and the victim of your photo is completely blind. However, if the lighting is too direct or bright, it can cause the subject to be over-exposed. I included some examples of successful lighting.
+
+
 
 
