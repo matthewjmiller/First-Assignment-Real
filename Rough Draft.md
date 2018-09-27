@@ -56,6 +56,10 @@ Slightly cloudy days are optimal for picture-taking because the photographer has
   
 Taking pictures with the sun shining from behind you onto the subject is a good way to make sure the photo turns out well and the victim of your photo is completely blind. However, if the lighting is too direct or bright, it can cause the subject to be over-exposed. I included some examples of successful lighting.
 
+#### 2. Sillhouettes or Backlit Images
+
+When the subject is backlit, it makes seeing them almost impossible, but it can be used as a creative sillhouette image in the right context. This is a more artistic approach to photography, so it will not always be a practical tool for yearbook. However, for divider pages between chapters, the title page, or the cover could profit from this approach. Any instance that the subject needs to be clearly seen is an example of when backlighting your subject is not a good idea.
+
 
 
 
