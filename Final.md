@@ -24,7 +24,7 @@ To truly help the students understand the basics of photography, I wrote a segme
 
 Three main features influence the quality of the pictures being taken when the camera is in its manual setting, shutter speed, ISO, and aperature. For the sake of simplicity, I am going to explain how to make the technical adjustments on a Cannon camera since they are the type that your yearbook uses. 
 
-[Insert Photo]
+![](First-Assignment-Real/CameraPic.jpg)
 
 **Shutter Speed** is an important part of taking pictures even for beginners. It does exactly what its name indicates; it increases or decreases the speed of the lense's shutter. The faster it opens and closes the less light makes it into the camera, and the slower it does so, the more light will enter. Whenever too little light enters, the picture comes out dark, and when too much light gets in, the photo begins to show the subtle shaking of the photographer's hands, making the image blurry. These are very common issues so you will want to make sure each member of your yearbooks staff know how to avoid them. Below I included an easy reference tool for the students as they go about taking pictures.
 
