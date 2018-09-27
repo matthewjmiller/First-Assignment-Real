@@ -1,5 +1,13 @@
 # Learning to Take Professional Pictures
 ***
+## 1. Required Supplies
+### A. Camera
+### B. Camera Lense
+### C. Memory Card 
+
+## 2. Recommended Supplies
+### A. Flash
+### B. Adobe Products
 
 ## 1. Technical Information: 
 
@@ -47,4 +55,5 @@ Slightly cloudy days are optimal for picture-taking because the photographer has
 #### 1. Frontlit Images
   
 Taking pictures with the sun shining from behind you onto the subject is a good way to make sure the photo turns out well and the victim of your photo is completely blind. However, if the lighting is too direct or bright, it can cause the subject to be over-exposed. I included some examples of successful lighting.
+
 
