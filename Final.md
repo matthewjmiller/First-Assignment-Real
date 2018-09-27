@@ -58,21 +58,17 @@ On a Cannon camera, the ISO changes with the same scroll function as the shutter
 #### i. Shallow - Good for isolating subjects
 #### ii. Deep – Good for Landscapes
 
-## 4. Composition Information
-
-This segment describes some of the main aspects of picture-taking that the yearbook students should bare in mind. These aspects include lighting, the rule of thirds, leading lines, and framing.
-
-### A. Lighting
+## A. Lighting
 
 Slightly cloudy days are optimal for picture-taking because the photographer has more control over what light is added or taken away from the picture. However, since the situation is not always ideal, I will go through some of the main points for understanding lighting. 
 
-#### 1. Frontlit Images
+### 1. Frontlit Images
   
 Taking pictures with the sun shining from behind you onto the subject is a good way to make sure the photo turns out well and the victim of your photo is completely blind. However, if the lighting is too direct or bright, it can cause the subject to be over-exposed. I included some examples of successful lighting.
 
 [Insert Photo]
 
-#### 2. Sillhouettes or Backlit Images
+### 2. Sillhouettes or Backlit Images
 
 When the subject is backlit, it makes seeing them almost impossible, but it can be used as a creative sillhouette image in the right context. This is a more artistic approach to photography, so it will not always be a practical tool for yearbook. However, for divider pages between chapters, the title page, or the cover could profit from this approach. Any instance that the subject needs to be clearly seen is an example of when backlighting your subject is not a good idea.
 
