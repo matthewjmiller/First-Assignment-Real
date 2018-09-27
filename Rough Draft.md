@@ -1,5 +1,16 @@
 # Learning to Take Professional Pictures
 ***
+
+## Audience: High School Yearbook Instructor and the students
+
+## Introduction 
+
+Taking pictures is a vital portion of any high school yearbook staff, for which the primary responsibility is documenting the year. Ultimately, pictures are the most effective way to remind people of memories they have long since forgotten. In a way, each picture can act as a gateway into the past, and the yearbook is a collection of pictures. However, taking good photos is an art that requires an understanding of the technical and composition knowledge in photography. For the high school students who are stepping into the responsibility of yearbook, this list should help give them a jump start into this new field. 
+
+To truly help the students understand the basics of photography, I wrote a segment explaining the supplies needed, technical subjects including shutter speed, ISO, and aperature, and composition subjects such as lighting, the rule of thirds, leading lines, and framing. Understandably, some of those terms are specialized jargin for photographers, but I am going to attempt to dissect them and put them in more basic diction for the students that are reading these instructions.
+
+## 
+
 ## 1. Required Supplies
 ### A. Camera
 ### B. Camera Lense
